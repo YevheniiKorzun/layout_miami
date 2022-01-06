@@ -10,4 +10,4 @@
 - Tablet 1024
 - Mobile (> 320px)
 
-<b>[Demo](https://yevheniikorzun.github.io/Museum/)</b>
+<b>[Demo](https://yevheniikorzun.github.io/layout_miami/)</b>
